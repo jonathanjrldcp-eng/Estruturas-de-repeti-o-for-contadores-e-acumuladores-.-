@@ -1,10 +1,10 @@
-# 🔄 Exercícios de Lógica em Python: Contadores e Acumuladores
+# Exercícios de Lógica em Python: Contadores e Acumuladores
 
 Este repositório contém uma série de pequenos exercícios práticos em Python criados para demonstrar e reforçar o uso de estruturas de repetição (`for`), **contadores** e **acumuladores**. 
 
 O script interativo pausa a execução em cada etapa e limpa a tela do terminal, facilitando o entendimento passo a passo de cada bloco de código.
 
-## 📚 Conceitos Abordados no Código
+## Conceitos Abordados no Código
 
 *   **Acumuladores:** Variáveis que recebem incrementos variados durante a execução de um loop (ex: somar os valores de uma sequência de números).
 *   **Contadores:** Variáveis que recebem incrementos fixos, geralmente `+1`, usadas para contar quantas vezes um evento específico ocorreu.
